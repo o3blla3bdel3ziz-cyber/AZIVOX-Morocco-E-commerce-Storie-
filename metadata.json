@@ -1,0 +1,6 @@
+{
+  "name": "AZIVOX Moroccan E-Commerce",
+  "description": "متجر AZIVOX المغربي للتجارة الإلكترونية - إكسسوارات السيارات، أجهزة ذكية، ومستلزمات المنزل مع الدفع عند الاستلام والتوصيل لجميع المدن.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
